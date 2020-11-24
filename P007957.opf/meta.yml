@@ -3,5 +3,17 @@ initial_creation_type: ocr
 source_metadata:
   id: bdr:W8LS20677
   title: བོད་སྐད་ཡིག་རྨང་གཞི་བསླབ་དེབ།
-  volume: ''
+  volume:
+    1798f7dd79694c38bd6485e89031dc2b:
+      image_group_id: I8LS20679
+      title: Volume 1 of bod skad yig rmang gzhi bslab deb/
+      volume_number: 1
+      total_pages: 243
   author: ''
+ebook_metadata:
+  title: བོད་སྐད་ཡིག་རྨང་གཞི་བསླབ་དེབ།
+  author: ''
+  sku: P007957
+  cover: cover.jpg
+  layers:
+  - pagination
