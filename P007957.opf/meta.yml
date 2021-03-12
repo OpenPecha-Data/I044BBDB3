@@ -5,11 +5,12 @@ source_metadata:
   title: བོད་སྐད་ཡིག་རྨང་གཞི་བསླབ་དེབ།
   author: ''
   volumes:
-    fbf0cad2b141485489684fa198f21d89:
+    1798f7dd79694c38bd6485e89031dc2b:
       image_group_id: I8LS20679
-      title: ''
+      title: Volume 1 of bod skad yig rmang gzhi bslab deb/
       volume_number: 1
       total_pages: 243
+      base_file: v001.txt
 ebook_metadata:
   title: བོད་སྐད་ཡིག་རྨང་གཞི་བསླབ་དེབ།
   author: ''
